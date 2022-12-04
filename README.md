@@ -1,4 +1,4 @@
-# Barberia Alura
+## Barberia Alura
 Proyecto de una Barberia para el programa de Alura LATAM en conjunto con Oracle One
 
 Tecnologías: HTML5, CSS3
